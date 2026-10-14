@@ -1,0 +1,129 @@
+PRIVACY POLICY FOR AUTO CLICK
+
+Effective Date: October 14, 2026
+Last Updated: October 14, 2026
+
+App Name: Auto Click
+Developer: Hobby Developer
+Contact Email: kavitech3333@gmail.com
+
+1. INTRODUCTION
+
+Hobby Developer ("we," "our," or "us") respects your privacy. This Privacy Policy explains how the Auto Click Android application ("the App") handles information, uses device permissions, and protects your privacy.
+
+Auto Click is designed to help users automate screen taps using user-configured clicking intervals and on-screen controls.
+
+By using the App, you acknowledge this Privacy Policy.
+
+2. INFORMATION WE COLLECT
+
+Auto Click does not require users to create an account or provide personal information such as their name, email address, phone number, or home address to use its core functionality.
+
+The App is designed to store its settings and configuration locally on your device.
+
+We do not intentionally collect personal information through the App's core auto-clicking functionality, and we do not sell users' personal information.
+
+However, the App's Android permissions and any third-party software libraries included in current or future versions may process information as described in the applicable sections below.
+
+3. ACCESSIBILITY SERVICE USAGE
+
+Auto Click uses Android's Accessibility Service to perform automated taps and gestures according to the user's instructions.
+
+The service enables features such as:
+
+- Performing screen taps at user-selected coordinates.
+- Repeating taps at intervals configured by the user.
+- Starting, pausing, and stopping automated clicking.
+- Supporting the App's auto-clicking functionality while the user operates other applications, where Android permits.
+
+The Accessibility Service is used to provide the App's core functionality. It is not intended to collect personal information, capture passwords or payment details, or monitor users for advertising purposes.
+
+The App does not intentionally transmit information obtained through Accessibility Service to Hobby Developer or external servers.
+
+Users must explicitly enable the Accessibility Service through Android settings. Users may disable it at any time through their device's Accessibility settings.
+
+Depending on the service configuration and Android version, Accessibility Service may have the technical ability to observe certain interface events or interact with screen elements. Users should enable this permission only if they understand and trust the App.
+
+4. PERMISSIONS USED BY THE APP
+
+Accessibility Service:
+This permission allows the App to perform automated taps and gestures as requested by the user.
+
+Display Over Other Apps:
+This permission allows the App to display floating controls, such as a start or stop panel, over other applications when the user enables this feature.
+
+Notifications:
+The App may use notifications to display clicking status, ongoing activity, or service controls where applicable.
+
+Internet Access:
+The App's current data-handling practices should be reviewed alongside its actual Android permissions and software dependencies. If internet access or third-party SDKs are included, network activity may occur for purposes such as service operation, crash reporting, or other disclosed functionality.
+
+We request or use permissions only as needed for the App's intended features.
+
+5. DATA STORAGE
+
+Auto Click is designed to store app settings and user-configured clicking preferences locally on the device.
+
+We do not operate a user account system or a personal-data storage server for the App's core functionality.
+
+Locally stored information may remain on the device until it is deleted by the user, cleared through Android app settings, or removed during uninstallation, subject to Android's backup and storage behavior.
+
+6. DATA SHARING AND DISCLOSURE
+
+We do not intentionally transmit locally stored clicking settings or information obtained through the Accessibility Service to external servers.
+
+We do not sell personal information to third parties.
+
+Information may be disclosed if required by applicable law or a valid legal process.
+
+If third-party services are incorporated into the App, their processing of information must be assessed and disclosed in accordance with their actual use and applicable privacy requirements.
+
+7. THIRD-PARTY SERVICES
+
+The App is not intended to require third-party analytics, advertising, or crash-reporting services for its core functionality.
+
+However, the presence of third-party libraries in the actual application build has not yet been confirmed. If services such as Google Firebase, Firebase Crashlytics, Google Analytics, or other SDKs are included, they may collect or process technical information according to their configuration and applicable privacy policies.
+
+We will update this Privacy Policy as necessary if third-party services that affect user data are introduced.
+
+8. CHILDREN'S PRIVACY
+
+Auto Click is intended for a general audience and is not specifically designed to collect personal information from children.
+
+The App does not require account registration or the submission of personal information to use its core functionality.
+
+If the App is distributed to children or included in Google Play's Families program, additional Google Play requirements may apply. We will take appropriate steps to address any applicable legal and platform requirements.
+
+9. DATA SECURITY
+
+We take reasonable measures to protect information handled by the App.
+
+Because the App is designed to store settings locally, users should maintain the security of their devices and review the permissions granted to installed applications.
+
+No method of electronic storage or transmission can be guaranteed to be completely secure.
+
+10. USER CHOICES AND PERMISSION CONTROLS
+
+Users can manage their privacy and permissions by:
+
+- Disabling Accessibility Service through Android settings.
+- Revoking the Display Over Other Apps permission.
+- Disabling notifications through Android settings.
+- Clearing the App's stored data or uninstalling the App.
+
+Disabling required permissions may prevent some App features from working.
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy to reflect changes in the App's features, permissions, software dependencies, or applicable legal requirements.
+
+The latest version will be published at the public Privacy Policy URL associated with the App on Google Play.
+
+12. CONTACT INFORMATION
+
+If you have questions, requests, or concerns regarding this Privacy Policy or the App's privacy practices, please contact us:
+
+Developer: Hobby Developer
+Application: Auto Click
+Email: kavitech3333@gmail.com
+
